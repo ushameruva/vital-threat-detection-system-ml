@@ -1,2 +1,2 @@
 # vital-threat-detection-system-ml
-Machine Learning Based Vital Threat Detection System
+Machine Learning-based system to detect potential health risks using vital parameters
